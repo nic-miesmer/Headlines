@@ -7,7 +7,7 @@ const ArticleSchema = new Schema({
         type: String,
         required: true
     },
-    URL: {
+    link: {
         type: String,
         required: true
     },
